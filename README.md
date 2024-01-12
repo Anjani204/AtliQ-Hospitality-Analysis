@@ -38,7 +38,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Anjani204/AtliQ-Hospitality-Analysis/blob/main/resources/overall_view.png' width="600">
+    <img src='https://github.com/Anjani204/AtliQ-Hospitality-Analysis/blob/main/resources/Overall_view.png' width="600">
 </p>
 
 ## Monthly Analysis View
