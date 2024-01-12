@@ -4,7 +4,7 @@ As part of the codebasics september month resume challenge, I have worked on thi
 
 Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](https://novypro.com/project/hospitality-analysis-22)
+Link to [Interactive Dashboard](https://www.novypro.com/project/atliq-hospitality-analysis-codebasics-september-month-resume-challange-power-bi)
 
 
 
